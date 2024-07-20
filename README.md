@@ -1,4 +1,9 @@
 # Yukti-Challenge
+## To install follow below steps:
+### Download the zip file.
+### run npm install (to install node module)
+### npm run dev (to run the website)
+<br>
 
 ## Home page
 # Laptop View
